@@ -1,0 +1,3 @@
+C:\Users\Admin\bridgelab\csharpprograms\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\bridgelab\csharpprograms\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\bridgelab\csharpprograms\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.CoreCompileInputs.cache
